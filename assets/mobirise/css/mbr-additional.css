@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#msg-box4-2 .lead P {
+  font-size: 22px;
+  color: #fbf2be;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+#msg-box4-2 .mbr-section-title {
+  color: #160946;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  text-align: right;
+}
+#msg-box4-2 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+#msg-box4-2 .mbr-section-title SPAN {
+  text-align: center;
+  color: #ffeee3;
+  font-size: 30px;
+}
+#msg-box4-2 small B {
+  font-size: 18px;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+}
+#features1-3 H4 {
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif;
+  color: #062138;
+  text-align: right;
+}
+#features1-3 P {
+  text-align: center;
+}
+#features1-3 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
+#msg-box3-5 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-5 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
+#msg-box3-5 .mbr-section-title {
+  color: #062138;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-5 .mbr-section-title I {
+  font-size: 36px;
+}
+#pricing-table1-7 SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+#pricing-table1-7 .btn {
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-8 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-8 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-8 small {
+  color: #fbf2be;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-8 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+}
+#msg-box3-8 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+  color: #a9d7ff;
+}
+#form1-9 .mbr-section-title {
+  color: #d5f4f0;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+}
+#form1-9 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#form1-9 .mbr-section-title B {
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  color: #feeaba;
+}
+#form1-9 .mbr-section-title P {
+  font-size: 15px;
+}
+#contacts1-a P {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+  color: #fbf2be;
+  text-align: center;
+}
+#contacts1-a STRONG {
+  color: #f1c050;
+}
+#footer1-b P {
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+}
