@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -14,123 +14,133 @@
 
 
 
-
-
-
-
-#msg-box4-2 .lead P {
-  font-size: 22px;
-  color: #fbf2be;
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-}
-#msg-box4-2 .mbr-section-title {
-  color: #160946;
-  font-family: 'Oswald', sans-serif;
-  font-size: 32px;
-  text-align: right;
-}
-#msg-box4-2 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 16px;
-}
-#msg-box4-2 .mbr-section-title SPAN {
-  text-align: center;
-  color: #ffeee3;
-  font-size: 30px;
-}
-#msg-box4-2 small B {
-  font-size: 18px;
-  text-align: right;
-  font-family: 'Oswald', sans-serif;
-}
-#features1-3 H4 {
-  font-size: 18px;
-  font-family: 'Oswald', sans-serif;
-  color: #062138;
-  text-align: right;
-}
-#features1-3 P {
-  text-align: center;
-}
-#features1-3 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 13px;
-}
-#msg-box3-5 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-5 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-5 .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 13px;
-}
-#msg-box3-5 .mbr-section-title {
-  color: #062138;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box3-5 .mbr-section-title I {
+#header1-0 H1 {
+  color: #cdfa1a;
   font-size: 36px;
-}
-#pricing-table1-7 SPAN {
   font-family: 'Oswald', sans-serif;
-  font-size: 16px;
-}
-#pricing-table1-7 .btn {
-  font-size: 12px;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box3-8 .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-8 .mbr-header .mbr-header__subtext {
-  text-align: center;
+#header1-0 I {
+  color: #f2f1ed;
 }
-#msg-box3-8 small {
-  color: #fbf2be;
-  font-size: 15px;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box3-8 .btn {
+#header1-0 .btn {
   font-family: 'Oswald', sans-serif;
   font-size: 14px;
 }
-#msg-box3-8 .mbr-section-title {
+#header1-0 B {
+  color: #edf91a;
   font-family: 'Oswald', sans-serif;
-  font-size: 36px;
-  color: #a9d7ff;
+  font-size: 32px;
 }
-#form1-9 .mbr-section-title {
+#header1-0 P {
+  color: #fbfbfb;
+}
+#header1-0 SPAN {
+  color: #eaf51a;
+}
+#header4-1 P {
+  text-align: left;
+  font-size: 19px;
+  font-family: 'Open Sans', sans-serif;
+  color: #efdcb1;
+}
+#header4-1 H1 {
+  text-align: center;
+}
+#header4-1 I {
+  text-align: right;
+  font-size: 23px;
+  font-family: 'Oswald', sans-serif;
+  color: #fff8e0;
+}
+#header4-1 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+}
+#header4-1 B {
+  color: #fff8e0;
+  font-size: 16px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+#header4-1 SPAN {
+  font-size: 16px;
+}
+#dropdown-menu-6 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-6 .nav .link,
+#dropdown-menu-6 .dropdown-item {
+  font-size: 0.8em;
+  color: #1f71b7;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-6 .navbar,
+#dropdown-menu-6 .dropdown-menu {
+  background: #1512df;
+}
+#dropdown-menu-6 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-6 .dropdown-menu a:hover,
+#dropdown-menu-6 .dropdown-menu a:focus {
+  background: #1310cc;
+}
+#dropdown-menu-6 .navbar-toggler {
+  color: #1f71b7;
+}
+#dropdown-menu-6 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+}
+#header1-7 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
+}
+#header1-7 I {
+  color: #e6f117;
+  font-size: 18px;
+}
+#header1-7 P {
+  color: #fff8e0;
+  text-align: left;
+}
+#header1-7 B {
+  color: #fff8e0;
+}
+#form1-a .mbr-section-title {
   color: #d5f4f0;
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  font-size: 25px;
+  font-size: 18px;
 }
-#form1-9 .btn {
+#form1-a .btn {
   font-family: 'Oswald', sans-serif;
+  font-size: 13px;
 }
-#form1-9 .mbr-section-title B {
+#form1-a .mbr-section-title B {
   text-align: right;
   font-family: 'Oswald', sans-serif;
-  font-size: 15px;
-  color: #feeaba;
-}
-#form1-9 .mbr-section-title P {
-  font-size: 15px;
-}
-#contacts1-a P {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 16px;
+  font-size: 17px;
   color: #fbf2be;
-  text-align: center;
 }
-#contacts1-a STRONG {
-  color: #f1c050;
+#form1-a .mbr-section-title P {
+  font-size: 18px;
+  color: #abdbf2;
 }
-#footer1-b P {
+#contacts1-e SPAN {
   text-align: center;
-  font-size: 12px;
+  font-size: 13px;
+  color: #0275d8;
+}
+#contacts1-e P {
+  color: #a2eca2;
   font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+#contacts1-e STRONG {
+  font-size: 17px;
+  color: #fbf2be;
+}
+#footer1-10 P {
+  text-align: center;
+  font-size: 14px;
 }
