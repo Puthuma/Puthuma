@@ -375,10 +375,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#1512df"
+              "background": "#bf140f"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#1310cc"
+              "background": "#ac120e"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -395,7 +395,7 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-1l",
           "_params": {
-            "bgColor": "#1512df",
+            "bgColor": "#bf140f",
             "fontSize": "0.8",
             "fontName": {
               "name": "Oswald",
@@ -403,16 +403,16 @@
               "css": "'Oswald', sans-serif"
             },
             "fontColor": "#000000",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/royalshaadi-1.000.logo-2.png",
+              "src": "file:///C:/Users/user/AppData/Local/Mobirise.com/Mobirise/projectData/royalshaadi_1.000.logo_2.png",
               "class": "",
               "height": 128,
               "alt": "",
