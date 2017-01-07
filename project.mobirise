@@ -63,22 +63,32 @@
               "font-size": "30px"
             },
             "small B": {
-              "font-size": "18px",
-              "text-align": "right",
+              "font-size": "23px",
+              "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#0275d8"
+            },
+            ".lead H4": {
+              "color": "#f1c050",
+              "font-size": "18px"
+            },
+            "small": {
+              "font-size": "19px",
+              "color": "#0275d8",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "msg-box4-2",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/8773954890-fcb15a43e5-b-1-2000x980-60.jpg",
-            "bgColor": "#ff1d17",
-            "bgColorRadio": false,
+            "bgColor": "#e9150f",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -115,8 +125,8 @@
             }
           },
           "title": "<span style=\"line-height: 1.1;\"><b>Puthuma</b> </span><span style=\"line-height: 1.1;\">Washing Soap&nbsp;</span><br>",
-          "meta": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Made From 100% Cocunut Oils.</b>",
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Safe &nbsp;On &nbsp;Cloth &nbsp;And &nbsp;Hands</p>",
+          "meta": "Made From 100% Cocunut Oils.<b>&nbsp;</b><b><br></b>",
+          "text": "<h4>Safe &nbsp;On &nbsp;Cloth &nbsp;And &nbsp;Hands</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">More</a>"
         },
         {
@@ -127,7 +137,7 @@
           "_name": "features1",
           "_styles": {
             "H4": {
-              "font-size": "18px",
+              "font-size": "16px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#062138",
@@ -149,7 +159,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#f7f7f7",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -182,8 +192,8 @@
             }
           },
           "title1": "Washing Soap 125 gram<br>",
-          "caption1": "Puthuma wash soaps are manufactured using 100% Cocunut Oils only. ",
-          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "caption1": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only. ",
+          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1468235786671-7d0c7b22c605-600x400-68.jpg",
@@ -202,8 +212,8 @@
             }
           },
           "title2": "Washing Soap 150 gram",
-          "caption2": "Puthuma wash soaps are manufactured using 100% Cocunut Oils only.",
-          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "caption2": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only.",
+          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/full-unsplash-5-unsplash-bonus-jpg-600x400-16.jpg",
@@ -222,8 +232,8 @@
             }
           },
           "title3": "Washing Soap 200 gram",
-          "caption3": "Puthuma wash soaps are manufactured using 100% Cocunut Oils only.",
-          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
+          "caption3": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only.",
+          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1433087870301-b85d84efc18a-600x400-25.jpg",
@@ -242,8 +252,8 @@
             }
           },
           "title4": "Washing Soap &nbsp;600 gram",
-          "caption4": "Puthuma wash soaps are manufactured using 100% Cocunut Oils only.",
-          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
+          "caption4": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only.",
+          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
         },
         {
           "_styles": {
@@ -259,9 +269,10 @@
               "font-size": "13px"
             },
             ".mbr-section-title": {
-              "color": "#062138",
+              "color": "#f1c050",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
             },
             ".mbr-section-title I": {
               "font-size": "36px",
@@ -269,6 +280,15 @@
             },
             ".lead SPAN": {
               "color": "#b8dfed"
+            },
+            ".mbr-section-title B": {
+              "color": "#f1c050"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "14px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "alias": "purity/components",
@@ -297,10 +317,10 @@
             "showText": true,
             "showButton": true
           },
-          "title": "<i>Puthuma Washing Soap</i>",
+          "title": "Puthuma Washing Soap",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<span style=\"font-size: 1.25rem; line-height: 1.5;\">Puthuma washing Soap is available at economical prices, &nbsp;and comes in attractive packaging, . Puthuama Washing Soap has a powerful dirt cutting action, and leaves clothes sparkling clean. &nbsp; We use a &nbsp;100 % &nbsp;Coconut oil in our washing soaps. The product is safe on clothes and friendly to the skin. It protects the clothes from colour fading and keeps your clothes new as ever. It is eco friendly and helps save water. Our products are regaining popularity in many markets in South India.</span><br>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">See Our Product Price</a>"
+          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Puthuma washing Soap is available at economical prices, &nbsp;and comes in attractive packaging, Puthuama Washing Soap has a powerful dirt cutting action, and leaves clothes sparkling clean. &nbsp; &nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">We use a &nbsp;100 % &nbsp;Coconut oil in our washing soaps. The product is safe on clothes and friendly&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">to&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">the skin. It protects the clothes from colour fading and keeps your clothes new as ever. It is eco friendly and helps save water. Our products are regaining popularity in many markets in South India.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">See Our Product Price</a>"
         },
         {
           "alias": "purity/components",
@@ -318,6 +338,9 @@
               "font-size": "12px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "DIV": {
+              "color": "#062138"
             }
           },
           "_anchor": "pricing-table1-7",
@@ -327,7 +350,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#1f133d",
+            "bgColor": "#004a89",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -342,30 +365,30 @@
             "thirdType": "bg-danger",
             "fourthType": "bg-primary"
           },
-          "title1": "Puthuma 125g",
+          "title1": "<b>Puthuma 125g</b>",
           "currency1": "MRP: &nbsp; 10/-",
           "price1": "",
           "period1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - &nbsp;60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - &nbsp;7.5 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available- &nbsp;YES</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
-          "title2": "Puthuma 150g",
+          "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
+          "title2": "<b>Puthuma</b> <b>150g</b>",
           "currency2": "MRP: &nbsp;14/-",
           "price2": "",
           "period2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron -  60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 9 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Business Offer</a> ",
-          "title3": "Puthuma 200g&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a> ",
+          "title3": "<b>Puthuma 200g</b>&nbsp;",
           "currency3": "MRP: &nbsp;18/-",
           "price3": "",
           "period3": "",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron -  60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - 12 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
-          "title4": "Puthuma 600g",
-          "currency4": "MRP: 39/-",
+          "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
+          "title4": "<b>Puthuma 600g</b>",
+          "currency4": "MRP: 40/-",
           "price4": "",
           "period4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / Catron &nbsp;- 20 Nos</b></li><li class=\"list-group-item\"><b>Weight / Carton - 12 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available-  YES</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>"
         },
         {
           "_styles": {
@@ -376,8 +399,8 @@
               "text-align": "center"
             },
             "small": {
-              "color": "#fbf2be",
-              "font-size": "15px",
+              "color": "#150b0b",
+              "font-size": "18px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -389,8 +412,14 @@
             ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "36px",
+              "font-size": "25px",
               "color": "#a9d7ff"
+            },
+            "small B": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title B": {
+              "color": "#062138"
             }
           },
           "alias": "purity/components",
@@ -405,7 +434,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#003545",
+            "bgColor": "#f5a20e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -419,10 +448,10 @@
             "showText": true,
             "showButton": true
           },
-          "title": "Business Offer",
-          "meta": "<b>Puthuma</b> &nbsp;invites C &amp; F &nbsp;and Distributors &nbsp;to expand this excellent business.",
+          "title": "<b>Business Offer</b>",
+          "meta": "<b>Puthuma</b> &nbsp;invites C &amp; F &nbsp;and Distributors &nbsp;to expand this excellent business in Kerala.<br><br>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become &nbsp;a C &amp; F&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become a Distributor</a> "
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become &nbsp;a C &amp; F&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#form1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Become a Distributor</a> "
         },
         {
           "alias": "purity/components",
@@ -460,14 +489,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///C:/Users/user/AppData/Local/Mobirise.com/Mobirise/projectData/photo-3_1.jpg",
-            "bgColor": "#743978",
+            "bgColor": "#600066",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "<p><b>Contact Us</b> &nbsp; &nbsp; &nbsp;<b><a href=\"Puthuma#contacts1-a\">Full Address</a></b><a href=\"Puthuma#contacts1-a\"> </a>&nbsp; &nbsp; &nbsp; <a href=\"Puthuma#msg-box4-2\"><i><b>Back</b></i></a><a href=\"Matrimonial#header1-0\" class=\"text-warning\"><i></i></a></p>",
+          "title": "<p><b>Contact Us</b> &nbsp; &nbsp; &nbsp;<b><a href=\"Puthuma#contacts1-a\">Full Address</a></b><a href=\"Puthuma#contacts1-a\"> </a>&nbsp; &nbsp; &nbsp; <a href=\"Puthuma#pricing-table1-7\"><i><b>Back</b></i></a><a href=\"Puthuma#msg-box4-2\"><i><b></b></i></a><a href=\"Matrimonial#header1-0\" class=\"text-warning\"><i></i></a></p>",
           "form": {
             "action": "salesputhuma@gmail.com",
             "alerts": {
@@ -508,11 +537,11 @@
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "16px",
-              "color": "#fbf2be",
+              "color": "#230b0a",
               "text-align": "center"
             },
             "STRONG": {
-              "color": "#f1c050"
+              "color": "#290f0f"
             }
           },
           "_anchor": "contacts1-a",
@@ -522,7 +551,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#37383e",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -546,7 +575,7 @@
           },
           "text1": "<strong>Address</strong><br>M/S: Puthumaa Enterprises<br>Peringode Post<br>Koottanad &nbsp;Via<br>PATTAMBI<br>Palakkad DT<br>Kerala - 679 535",
           "text2": "<strong>Contacts</strong><br>\nEmail: salesputhuma@gmail.com<br>\nPhone: + 98461 04883<br><b>Customer Care</b><br>E Mail: careputhuma@gmail.com<br>Phone: + 98461 04883",
-          "text3": "<p><b>Link</b></p><p><i><a href=\"http://www.cmsstores.com/softwares/InventoryPlus/setup.exe\" target=\"_blank\">Download</a></i></p><p><b>Other Business Offer</b></p><p><b style=\"line-height: 1.5;\"><a href=\"http://royalshaadi.in/franchisee.php\" target=\"_blank\">Click Here</a> &nbsp;For Start Our Free Matrimonial &nbsp;Franchisee.</b></p><p><font color=\"#f1c050\"><a href=\"Puthuma#msg-box4-2\">Back</a></font></p>"
+          "text3": "<p><b>Link</b></p><p><i><a href=\"http://www.cmsstores.com/softwares/InventoryPlus/setup.exe\" target=\"_blank\" class=\"text-primary\">Download</a></i></p><p><b>Other Business Offer</b></p><p><b style=\"line-height: 1.5;\"><a href=\"http://royalshaadi.in/franchisee.php\" target=\"_blank\">Click Here</a> &nbsp;For Start Our Free Matrimonial &nbsp;Franchisee.</b></p><p><font color=\"#f1c050\"><a href=\"Puthuma#msg-box4-2\" class=\"text-success\">Back</a></font></p>"
         },
         {
           "alias": "purity/components",
