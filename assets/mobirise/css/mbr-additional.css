@@ -111,6 +111,9 @@
 #pricing-table1-7 DIV {
   color: #062138;
 }
+#pricing-table1-7 UL {
+  font-size: 16px;
+}
 #msg-box3-8 .mbr-header .mbr-header__text {
   text-align: center;
 }

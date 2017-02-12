@@ -125,7 +125,7 @@
             }
           },
           "title": "<span style=\"line-height: 1.1;\"><b>Puthuma</b> </span><span style=\"line-height: 1.1;\">Washing Soap&nbsp;</span><br>",
-          "meta": "Made From 100% Cocunut Oils.<b>&nbsp;</b><b><br></b>",
+          "meta": "Made From 100% Vegetarian &nbsp;Oils.<b>&nbsp;</b><b><br></b>",
           "text": "<h4>Safe &nbsp;On &nbsp;Cloth &nbsp;And &nbsp;Hands</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">More</a>"
         },
@@ -192,7 +192,7 @@
             }
           },
           "title1": "Washing Soap 125 gram<br>",
-          "caption1": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only. ",
+          "caption1": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only. ",
           "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media2": {
             "image": {
@@ -212,7 +212,7 @@
             }
           },
           "title2": "Washing Soap 150 gram",
-          "caption2": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only.",
+          "caption2": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
           "button2": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media3": {
             "image": {
@@ -232,7 +232,7 @@
             }
           },
           "title3": "Washing Soap 200 gram",
-          "caption3": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only.",
+          "caption3": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
           "button3": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>",
           "media4": {
             "image": {
@@ -252,7 +252,7 @@
             }
           },
           "title4": "Washing Soap &nbsp;600 gram",
-          "caption4": "Puthuma washing soaps are manufactured using 100% Cocunut Oils only.",
+          "caption4": "Puthuma washing soaps are manufactured using 100% Vegetarian Oils only.",
           "button4": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-5\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
         },
         {
@@ -319,7 +319,7 @@
           },
           "title": "Puthuma Washing Soap",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Puthuma washing Soap is available at economical prices, &nbsp;and comes in attractive packaging, Puthuama Washing Soap has a powerful dirt cutting action, and leaves clothes sparkling clean. &nbsp; &nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">We use a &nbsp;100 % &nbsp;Coconut oil in our washing soaps. The product is safe on clothes and friendly&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">to&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">the skin. It protects the clothes from colour fading and keeps your clothes new as ever. It is eco friendly and helps save water. Our products are regaining popularity in many markets in South India.</span></p>",
+          "text": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">Puthuma washing Soap is available at economical prices, &nbsp;and comes in attractive packaging, Puthuama Washing Soap has a powerful dirt cutting action, and leaves clothes sparkling clean. &nbsp; &nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">We use a &nbsp;100 % &nbsp;Vegetarian oil in our washing soaps. The product is safe on clothes and friendly&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">to&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">the skin. It protects the clothes from colour fading and keeps your clothes new as ever. It is eco friendly and helps save water. Our products are regaining popularity in many markets in South India.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#features1-3\" data-toolbar=\"-mbrBtnMove\">Back</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Puthuma#pricing-table1-7\" data-toolbar=\"-mbrBtnMove\">See Our Product Price</a>"
         },
         {
@@ -341,6 +341,9 @@
             },
             "DIV": {
               "color": "#062138"
+            },
+            "UL": {
+              "font-size": "16px"
             }
           },
           "_anchor": "pricing-table1-7",
@@ -369,7 +372,7 @@
           "currency1": "MRP: &nbsp; 10/-",
           "price1": "",
           "period1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - &nbsp;60 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - &nbsp;7.5 Kg</b></li><li class=\"list-group-item\"><b>Scheme Available- &nbsp;YES</b></li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Qty / &nbsp;Catron - &nbsp;84 Nos</b></li><li class=\"list-group-item\"><b>Weight / Catron - &nbsp;10.5 Kg</b></li><li class=\"list-group-item\"><b style=\"line-height: 1.5;\">Scheme &nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">Available</span><b style=\"font-size: 1rem; line-height: 1.5;\">- &nbsp;YES</b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"Puthuma#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
           "title2": "<b>Puthuma</b> <b>150g</b>",
           "currency2": "MRP: &nbsp;14/-",
@@ -551,7 +554,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#fffefc",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
