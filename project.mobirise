@@ -58,7 +58,7 @@
               "font-size": "13px"
             },
             ".mbr-section-title SPAN": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#b1f125",
               "font-size": "30px"
             },
@@ -70,7 +70,7 @@
               "color": "#0275d8"
             },
             ".lead H4": {
-              "color": "#f1c050",
+              "color": "#fbf2be",
               "font-size": "18px"
             },
             "small": {
@@ -87,7 +87,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/8773954890-fcb15a43e5-b-1-2000x980-60.jpg",
-            "bgColor": "#e9150f",
+            "bgColor": "#fc1537",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
