@@ -21,6 +21,10 @@
 
 
 
+
+
+
+
 #msg-box4-2 .lead P {
   font-size: 22px;
   color: #fbf2be;
@@ -70,6 +74,14 @@
   font-family: 'Oswald', sans-serif;
   font-size: 13px;
 }
+#features1-m H4 {
+  font-size: 16px;
+  font-family: 'Oswald', sans-serif;
+}
+#features1-m .btn {
+  font-size: 11px;
+  font-family: 'Oswald', sans-serif;
+}
 #msg-box3-5 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -114,6 +126,17 @@
 #pricing-table1-7 UL {
   font-size: 16px;
 }
+#pricing-table1-k SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+#pricing-table1-k DIV {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+#pricing-table1-k UL {
+  font-size: 14px;
+}
 #msg-box3-8 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -148,6 +171,7 @@
 }
 #form1-9 .btn {
   font-family: 'Oswald', sans-serif;
+  font-size: 12px;
 }
 #form1-9 .mbr-section-title B {
   text-align: right;
