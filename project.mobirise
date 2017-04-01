@@ -520,6 +520,21 @@
             "Theme"
           ],
           "_name": "pricing-table1",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            },
+            "UL": {
+              "font-size": "14px"
+            }
+          },
           "_anchor": "pricing-table1-k",
           "_params": {
             "paddingTop": 3,
@@ -565,22 +580,7 @@
           "price4": "",
           "period4": "",
           "list4": "Quality - PREMIUM<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Qty / Catron - 15 Nos</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Weight / Catron - 15 Kg</b><br></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Scheme  Available- NO</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"Detergent#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "16px"
-            },
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "15px"
-            },
-            "UL": {
-              "font-size": "14px"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"Detergent#msg-box3-8\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Business Offer</a>"
         },
         {
           "_styles": {
